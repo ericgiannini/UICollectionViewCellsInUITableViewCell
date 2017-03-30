@@ -1,0 +1,3 @@
+# UICollectionViewCell in a UITableViewCell
+
+To be completed later...
